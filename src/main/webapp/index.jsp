@@ -5,8 +5,8 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Hello Java EE Continuous Delivery!</title>
     </head>
-    <body bgcolor="yellow">
-        <h1 style = "color:blue">Hello Abhilash</h1>
+    <body bgcolor="black">
+        <h1 style = "color:white">Hello Abhilash</h1>
         <h1>Demo Project from Devops</h1>
         <h1>Good day DEVOPS.....</h1>
         <h1>Good day DEVOPS.....</h1>
